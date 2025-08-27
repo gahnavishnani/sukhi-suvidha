@@ -1,11 +1,11 @@
-🌿 Sukhi Suvidha
+#🌿 Sukhi Suvidha
 A Medical AI Simplifier for Rural India
 
 Sukhi Suvidha is an AI-powered healthcare assistant designed to make medical support accessible, simple, and multilingual — especially for rural communities in India.
 
 It brings together emergency response, hospital connections, doctor consultations, and medicine guidance into one easy-to-use platform.
 
-✨ Features
+#✨ Features
 
 🏥 Nearby Hospitals
 Quickly find hospitals and healthcare centers around you.
